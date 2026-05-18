@@ -1,0 +1,48 @@
+@font-face {
+  font-family: 'anastasiascriptc';
+  src:
+    url("./anastasiascriptc.woff2") format("woff2"),
+    url("./anastasiascriptc.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Neucha';
+  src:
+    url("./Neucha.woff2") format("woff2"),
+    url("./Neucha.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'PoiretOne';
+  src:
+    url("./PoiretOne-Regular.woff2") format("woff2"),
+    url("./PoiretOne-Regular.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Buongiorno Rastellino Cyr';
+  src:
+    url("./ofont.ru_Bickham-Script-One.woff2") format("woff2"),
+    url("./ofont.ru_Bickham-Script-One.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Montserrat-Medium';
+  src:
+    url("./Montserrat-Medium.woff2") format("woff2"),
+    url("./Montserrat-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
