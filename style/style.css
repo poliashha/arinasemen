@@ -49,6 +49,10 @@ body{
   font-size: 16px;
 }
 
+.hline{
+  margin-top: -4px;
+}
+
 .box-music{
   margin-top: 26px;
   position: relative;
