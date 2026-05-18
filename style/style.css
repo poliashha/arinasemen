@@ -120,10 +120,12 @@ body{
   border-radius: 64px;
   width: 252px;
   margin-top: 13px;
+  height: 41px;
 }
 
 .href{
   text-decoration: none;
+  
 }
 
 .time{
@@ -292,7 +294,6 @@ body{
   max-width: 330px;
   width: 100%;
   transition: all 0.3s ease;
-  padding: 7px 7px;
   justify-self: center;
   align-self: center;
   font-family: var(--main-font);
